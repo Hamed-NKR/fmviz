@@ -58,8 +58,8 @@ svg.append("rect")
   .attr("height", height);
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/tsipkens/fmviz/main/data/fm.csv", function(data) {
-  d3.csv("https://raw.githubusercontent.com/tsipkens/fmviz/main/data/quality.csv", function(data2) {
+d3.csv("https://raw.githubusercontent.com/Hamed-nkr/fmviz/main/data/fm.csv", function(data) {
+  d3.csv("https://raw.githubusercontent.com/Hamed-nkr/fmviz/main/data/quality.csv", function(data2) {
 
 
 
